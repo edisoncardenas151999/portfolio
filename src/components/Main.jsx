@@ -41,10 +41,16 @@ const Main = () => {
               repeat={Infinity}
             />
           </h2>
-          <div className="flex justify-between pt-6 max-w-[200px] w-full">
-            <FaGithub size={30} className="cursor-pointer" />
-            <FaFacebookF size={30} className="cursor-pointer" />
-            <FaLinkedinIn size={30} className="cursor-pointer" />
+          <div className="flex justify-between pt-52 max-w-[200px] w-full">
+            <a href="https://www.facebook.com/edison.cardenas.549436/">
+              <FaFacebookF size={40} className="cursor-pointer" />
+            </a>
+            <a href="https://github.com/edisoncardenas151999">
+              <FaGithub size={40} className="cursor-pointer" />
+            </a>
+            <a href="https://www.linkedin.com/in/edison-cardenas/">
+              <FaLinkedinIn size={40} className="cursor-pointer" />
+            </a>
           </div>
         </div>
       </div>
