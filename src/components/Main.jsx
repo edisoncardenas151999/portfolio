@@ -13,7 +13,7 @@ const Main = () => {
       <div className="w-full h-screen absolute top-0 left-0 bg-white/50">
         <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center  items-center ">
           <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">
-            I'm Edison Cardenas
+            Edison Cardenas
           </h1>
           <div
             className="flex sm:text-1xl text-1xl pt-2 text-gray-900"
