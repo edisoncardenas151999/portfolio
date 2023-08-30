@@ -48,7 +48,7 @@ const Sidenav = () => {
       <div className="md:block hidden fixed top-[25%] z-10">
         <div className="flex flex-col">
           <a
-            href="main"
+            href="#main"
             className="rounded-full shadow-lg bg-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-100"
           >
             <AiOutlineHome />
