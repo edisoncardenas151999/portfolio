@@ -18,7 +18,7 @@ const Main = () => {
           <div
             className="flex sm:text-1xl text-1xl pt-2 text-gray-900"
             onClick={(e) => {
-              window.location.href = "mailto:edisoncardenas151999@gmail.com";
+              window.location.href = "mailto:hi@edison.gg";
             }}
           >
             Contact me hi@edison.gg
