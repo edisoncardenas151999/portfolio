@@ -21,7 +21,7 @@ const Main = () => {
               window.location.href = "mailto:edisoncardenas151999@gmail.com";
             }}
           >
-            Contact me @ edisoncardenas151999@gmail.com
+            Contact me hi@edison.gg
           </div>
           <h2 className="flex sm:text-3xl text-2xl pt-4 text-gray-800">
             I'm a
