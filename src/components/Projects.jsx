@@ -5,6 +5,7 @@ import techjobboard from "../assets/techjobboard.jpeg";
 import aliengame from "../assets/aliengame.jpeg";
 import { FaReact, FaNode } from "react-icons/fa";
 import { DiMongodb, DiJavascript } from "react-icons/di";
+import lux from "../assets/Screenshot 2023-09-01 at 1.36.09 PM.png";
 
 const Projects = () => {
   return (
@@ -33,6 +34,11 @@ const Projects = () => {
           img={techjobboard}
           title={"Tech-Job-Board"}
           Link={"https://tech-job-board.fly.dev/"}
+        />
+         <ProjectItem
+          img={lux}
+          title={"LuxeLife-Creations"}
+          Link={"https://github.com/edisoncardenas151999/LuxeLife-Creations"}
         />
         <ProjectItem
           img={aliengame}
