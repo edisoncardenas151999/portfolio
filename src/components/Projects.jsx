@@ -5,7 +5,7 @@ import techjobboard from "../assets/techjobboard.jpeg";
 import aliengame from "../assets/aliengame.jpeg";
 import { FaReact, FaNode } from "react-icons/fa";
 import { DiMongodb, DiJavascript } from "react-icons/di";
-import lux from "../assets/Screenshot 2023-09-01 at 1.36.09 PM.png";
+import lux from "../assets/react-native.png";
 
 const Projects = () => {
   return (
