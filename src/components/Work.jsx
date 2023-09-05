@@ -3,19 +3,25 @@ import WorkItem from "./WorkItem";
 
 const data = [
   {
-    year: 2018,
-    title: "Intercontinental Miami-Kitchen staff",
-    duration: "3months",
-    details:
-      "Assisted in food preparation and other tasks as needed, contributing to the overall cusses of the kitchen operations.",
-  },
-  {
     year: 2019,
     title: "2taste Catering-Kitchen Supervisor",
     duration: "2years",
     details:
       "Managed daily procurement of all kitchen supplies and materials. Trained, led and optimized a 15-cook team for product quality, faster delivery times and top-notch safety measures Responsible for creating 3MM+ USDA-certified meals, all made under budget.",
   },
+  {
+    year: 2019,
+    title: "Hialeah Nursing and Rehab Center",
+    duration: "1 year and 1 month",
+    details: "Assisted the catering manager to manage, prepare, cook and deliver each day. Maintained adequate kitchen cleanliness and order through communication with chef and other staff",
+  }, 
+  {
+    year: 2018,
+    title: "Intercontinental Miami-Kitchen staff",
+    duration: "3months",
+    details: "Assisted in food preparation and other tasks as needed, contributing to the overall cusses of the kitchen operations.",
+  },
+ 
 ];
 
 const Work = () => {

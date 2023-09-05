@@ -7,8 +7,9 @@ function App() {
     <div>
       <Sidenav />
       <Main />
-      <Work />
       <Projects />
+      <Work />
+      
     </div>
   );
 }
